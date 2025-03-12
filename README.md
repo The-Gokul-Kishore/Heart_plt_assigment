@@ -1,2 +1,2 @@
 # Heart_plt_assigment
-A simple python plts to create heart (cartinoid) shapes
+some simple python plots to create heart (cartinoid) shapes
